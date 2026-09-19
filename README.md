@@ -1,4 +1,4 @@
-# 📊 Project Name: Data Analyzer and Transformer Program
+# 📊 Functional Treat: Data Analyzer and Transformer Program
 
 ## 👩‍💻 Author
 **Name:** Meshva Antala
